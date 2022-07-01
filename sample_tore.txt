@@ -1,0 +1,21 @@
+Is there any extension I can add to chrome which gives a warning before closing all tabs in the window by mistake?
+I have multiple tabs open, by mistake I click on windows cross to close the window, is there something I can add to chrome that it might give a warning like, If I want to close the all tabs in window or only the open tab, instead of directly closing all the tabs open in the window
+Android: Going back in a tab with no more history minimizes Chrome instead of closing the tab
+Problem in title. Used to be that if you couldn't go further back in a tab, it would close the tab and take you back to the last tab you were looking at. Now if just minimizes Chrome. Doesn't even close the tab. Behavior probably changed 2 weeks ago. Is there a flag I need to set, or perhaps a ritual sacrifice I need to make?
+How to remove blue border around links/buttons I’ve clicked?
+I’ve been searching for a fix for about an hour now, and either I’m not having the same problem as someone, or it requires knowledge of coding to fix? I didn’t always have the problem, but now all of a sudden it’s there and I’m not sure what to do. It’s really distracting, but it only happens on one of the profiles/accounts I’ve got on my computer, not the others. Any help would be greatly appreciated.
+Chrome breaks when it's minimised
+I'm using Chrome Canary, latest version Flags changed: top-chrome-touch-ui calculate-native-win-occlusion (both disabled) Windows 11 latest  Whenever I minimise my window and then open it again, the window freezes and it looks like this:   This only started happening recently. Help pls
+Navigation instructions overkill
+Does anybody else think the spoken instructions are completely overkill? Why does it tell me to go continue to go straight on at every crossing? I'm doing that by default. I want to know when I need to take a turn not when I need to continue to do what I am already doing. And when I do need to take a turn why is it telling me to do so three times instead of once? It's really annoying. I've used the app "Routes" for about a year for navigating a premade gpx route and that app gives me far less instructions, just like Google Maps does. Which is a far more peaceful ride.
+Turn sound instructions off.
+using komoot to navigate with data outside my region
+Just wanted to know if this is possible or I have to buy the maps to use the navigation outside my region.
+You can plan anywhere and see the route on the map, but to get the turn by turn navigation instructions you need to have the region. You get the first for free then it's like £4 for others, £8 for a group of 3 regions (called bundles) and £30 for the entire world. Those are one off payments. If you missed the welcome offer, they normally do a spring (was a couple of weeks ago) and summer sale (usually in August) - these are normally the world pack for £20. There is also komoot premium for £60/year which includes the world pack (among other features). Prices seem consistent, so something for £30 is $30, or €30 euros depending where you live. (Although this doesn't apply for currencies with large exchange rates, ¥30 is like pennies)
+Can't SAVE or BOOKMARK a place
+Neither or the website or iOS. I'm new to Komoot. Don't know how to save my home address so I don't have to search for it repeatedly.
+on Android at least, there is a recent searches list, so after you search the first time you just click that. On web it doesn't appear to have the same thing, and I don't have an iOS device to try. Not really recommended, but you could add somewhere near your home (say the end of the road) as a highlight.
+You can't. Bookmarks are only for "points of interest" called "highlights" or something and your home is not one of them. ;) Yes, it's awful, one of the things that Komoot should be fixing asap. Edit: you can start a map with your home as starting point and then save that map by bookmarking the url. That way you will always start a route from your home. It's a crude workaround.
+personal notes
+Is it possible to add personal notes on segments so you can remember terrible road conditions or too many obstacles on a segment?
+You can only add public tips at the moment.

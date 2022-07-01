@@ -1,6 +1,6 @@
-trainFile = training_for_SNER.tsv
+trainFile = tore_training_for_SNER.txt
 
-serializeTo = custom-model.ser.gz
+serializeTo = tore-model.ser.gz
 
 map = word=0,answer=1
 
@@ -15,7 +15,6 @@ useShapeConjunctions=True
 useSymTags=True
 useGazettes=true
 noMidNGrams=true
-maxNGramLeng=6
 usePrev=true
 useNext=true
 useDisjunctive=true
